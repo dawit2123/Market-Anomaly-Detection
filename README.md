@@ -7,21 +7,6 @@ Welcome to the **AI-Powered Investment Strategy Analyzer**! This innovative tool
 
 ---  
 
-## 💡 Skills Gained  
-
-Throughout the development of this project, I gained valuable skills, including:  
-
-- Proficiency in **Python programming**, particularly with libraries like **Pandas**, **NumPy**, and **Scikit-learn** for data analysis and modeling.  
-- Expertise in **anomaly detection models** to identify irregularities in financial data.  
-- Hands-on experience with **data preprocessing**, including handling missing values, normalization, and feature engineering.  
-- Building an automated **report generation system** that provides key insights such as best performance periods, worst performance periods, and the total number of anomalies detected.  
-- Integration of **Gemini conversational AI** to answer user questions based on the generated report.  
-- Designing a user-friendly workflow for uploading datasets, generating reports, and downloading strategy results.  
-- Debugging and optimizing a machine learning pipeline to achieve an accuracy of **91.6%**.  
-- Developing an interactive system that seamlessly integrates analysis, strategy, and user interaction.  
-
----  
-
 ## 🛠 Technologies Used  
 
 <div>  
