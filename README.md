@@ -62,9 +62,11 @@ The project workflow consists of several key steps designed to deliver a compreh
 
 5. **Downloadable Strategy Results**  
    The system provides a downloadable file containing the calculated strategy results for offline reference.  
-
+## Demo 
 ![Demo](https://github.com/dawit2123/Market-Anomaly-Detection/blob/main/Demos/ai%20investment%20strategy%20planner.png)  
+## Analaysis and strategy
 ![Strategy Insights](https://github.com/dawit2123/Market-Anomaly-Detection/blob/main/Demos/ai%20investment%20strategy%20planner2.png)  
+## Bot interaction for explanation
 ![User Interaction Overview](https://github.com/dawit2123/Market-Anomaly-Detection/blob/main/Demos/bot%20response.png)  
 
 ---  
