@@ -1,4 +1,5 @@
 streamlit 
+scikit-learn
 tensorflow 
 python-dotenv 
 google-generativeai 
