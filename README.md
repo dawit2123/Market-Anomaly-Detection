@@ -4,6 +4,7 @@
 ## 🌟 Project Vision  
 
 Welcome to the **AI-Powered Investment Strategy Analyzer**! This innovative tool leverages advanced anomaly detection to help investors make informed, data-driven decisions. By analyzing financial data and generating detailed, actionable insights, the system empowers users to minimize losses and maximize returns. The project combines cutting-edge machine learning with user-friendly interaction, setting a new benchmark for investment strategy tools.  
+👉 Check out the live application here: [Market Anomaly Detection]((https://market-anomaly-detection.streamlit.app/))  
 
 ---  
 
