@@ -1,0 +1,7 @@
+streamlit 
+tensorflow 
+python-dotenv 
+google-generativeai 
+pandas 
+matplotlib 
+gemini-api 
