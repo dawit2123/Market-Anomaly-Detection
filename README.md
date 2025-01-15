@@ -86,5 +86,7 @@ Ready to dive in? Follow these steps to set up and run the project on your local
    ```
 3. Clone or download the project as a zip file.
 4. Open the Jupyter notebook or script.
-5. Run the cells in sequence to preprocess data, build the model, and execute training.
-6. Use the trained model to predict market reports.
+5. To train a model, open the Market_Anomaly_Detection.ipynb file, upload the FinancialMarketData.csv file, and run each cell sequentially.
+6. To use and run the model, open the Propose_investment_startegy.ipynb file and upload the anomaly_detection_model and the current_finance_data.csv.
+7. Generate the API key from Gemini and NGROK and insert them in the .env and secret key.
+8. Run the cells in sequence to preprocess data, build the model, and execute training.
