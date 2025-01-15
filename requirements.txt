@@ -6,3 +6,4 @@ google-generativeai
 pandas 
 matplotlib 
 gemini-api 
+seaborn
