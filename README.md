@@ -1,4 +1,4 @@
-# 📊 AI-Powered Investment Strategy Analyzer
+# 📊 Market Anomaliy Detector and AI-Powered Investment Strategy Analyzer
 
 <img src="https://img.shields.io/badge/-Solo Project-f2336f?&style=for-the-badge&logoColor=white" />
 
